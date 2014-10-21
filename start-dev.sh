@@ -1,4 +1,4 @@
-killall nod
+fffffkillall nod
 
 hahahahha
 
